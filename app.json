@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "VehiGest AR",
+    "slug": "vehigest-ar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D0F14"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D0F14"
+      },
+      "package": "com.vehigest.ar"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "vehigest-ar"
+      }
+    }
+  }
+}
