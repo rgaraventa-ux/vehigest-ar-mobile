@@ -4,22 +4,13 @@
     "slug": "vehigest-ar",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0D0F14"
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#0D0F14"
-      },
-      "package": "com.vehigest.ar"
+      "package": "com.vehigest.ar",
+      "buildType": "apk"
     },
     "extra": {
       "eas": {
-        "projectId": "vehigest-ar"
+        "projectId": "f017f40b-87e4-4239-b2c4-8529c4c61e0a"
       }
     }
   }
