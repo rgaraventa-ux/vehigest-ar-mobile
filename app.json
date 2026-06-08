@@ -2,11 +2,11 @@
   "expo": {
     "name": "VehiGest AR",
     "slug": "vehigest-ar",
+    "owner": "rgaraventa-ux",
     "version": "1.0.0",
     "orientation": "portrait",
     "android": {
-      "package": "com.vehigest.ar",
-      "buildType": "apk"
+      "package": "com.vehigest.ar"
     },
     "extra": {
       "eas": {
