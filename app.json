@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "VehiGest AR",
-    "slug": "vehigest-ar-mobile",
+    "slug": "vehigest-mobile",
     "owner": "rgaraventa-ux",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,7 +10,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "f017f40b-87e4-4239-b2c4-8529c4c61e0a"
+        "projectId": "f8b1c5ea-2bbb-42fb-8b86-808cd4918bb2"
       }
     }
   }
