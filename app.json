@@ -2,7 +2,7 @@
   "expo": {
     "name": "VehiGest AR",
     "slug": "vehigest-mobile",
-    "owner": "rgaraventa-ux",
+    "owner": "garaventa",
     "version": "1.0.0",
     "orientation": "portrait",
     "android": {
